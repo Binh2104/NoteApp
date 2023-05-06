@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NoteApp</string>
+    <string name="search_notes">Search notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="type_note_here">Type note here....</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="cancel_dialog">Cancel Dialog</string>
+    <string name="are_you_sure_delet_this_note">Are you sure delet this note?</string>
+    <string name="my_notes">My Notes</string>
+    <string name="add_url">Add Url</string>
+    <string name="add">Add</string>
+</resources>
